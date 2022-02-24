@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Alisha</n>
-- I graduated with a Bachelor's degree in Data Science. I like to collect data and analyze information :)
+- I graduated with a Bachelor's degree in Computer Science and Master's Degree in Data Science. I like to collect data and analyze information :)
 
 <!---
 spyt2h/spyt2h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
